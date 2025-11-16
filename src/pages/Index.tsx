@@ -18,8 +18,8 @@ const Index = () => {
       title: 'Океанские волны'
     },
     {
-      url: 'https://cdn.poehali.dev/projects/b4e4485a-30bd-4477-a577-2b227dca0f5f/files/197980a9-c921-4426-9ae8-01be0e5553e2.jpg',
-      title: 'Голубая бабочка'
+      url: 'https://cdn.poehali.dev/files/ad9d5a5a-4481-4e2b-b161-3b3aee884f9e.jpg',
+      title: 'Винтажный MiniDisc'
     },
     {
       url: 'https://cdn.poehali.dev/projects/b4e4485a-30bd-4477-a577-2b227dca0f5f/files/2dbad1d6-b45b-4992-b6b5-55cca5628c53.jpg',
