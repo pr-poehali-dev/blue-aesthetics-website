@@ -14,8 +14,8 @@ const Index = () => {
 
   const galleryImages = [
     {
-      url: 'https://cdn.poehali.dev/projects/b4e4485a-30bd-4477-a577-2b227dca0f5f/files/c7ff5ca8-17f8-4c74-aef3-9be629e31428.jpg',
-      title: 'Океанские волны'
+      url: 'https://cdn.poehali.dev/files/a90e2de0-bbb4-4d86-98ad-ff1f39102986.jpg',
+      title: 'Голубая бас-гитара'
     },
     {
       url: 'https://cdn.poehali.dev/files/ad9d5a5a-4481-4e2b-b161-3b3aee884f9e.jpg',
